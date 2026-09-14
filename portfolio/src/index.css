@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@layer components {
+  .align-element {
+    @apply mx-auto max-w-7xl px-8;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
