@@ -252,9 +252,8 @@ export const certifications = [
   {
     id: nanoid(),
     title: "CompTIA A+ (IT Hardware)",
-    issuer:
-      "https://www.udemy.com/certificate/UC-e4b7e24a-14cd-4528-b390-69055489a4b6/",
-    link: "#",
+    issuer: "Udemy",
+    link: "https://www.udemy.com/certificate/UC-e4b7e24a-14cd-4528-b390-69055489a4b6/",
   },
   {
     id: nanoid(),
